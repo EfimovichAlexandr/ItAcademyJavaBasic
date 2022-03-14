@@ -1,6 +1,6 @@
-package BasicJava;
+package HomeWork2;
 
-public class Main {
+public class TaskNumber1 {
     public static void main(String[] args) {
         /*
         Написать код, который выведет значения переменных на экран:
@@ -40,6 +40,5 @@ public class Main {
                 float f = %.2f;
                 double = %.8f;
                 boolean bool = %s;""", b, s, i, l, c, f, d, bool);
-        System.out.println("Голова кругом!");
     }
 }
